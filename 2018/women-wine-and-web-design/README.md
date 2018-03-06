@@ -34,6 +34,30 @@ Open each demo and click "Remix" to
 
 ### Keep Learning
 
+#### In Person
+
+- Women Who Code
+  - https://www.meetup.com/WWCode-Cincinnati/
+  - Women Who Code is a group for women working in technology to further their careers. We do free workshops, social events, and other gatherings.
+  - Every third Thursday of the month is Women Who Code Together, a study group session where you can ask questions about tech.
+  - Next month's meetup is a book club discussion on "The Design of Everyday Things" by Don Norman. https://www.meetup.com/WWCode-Cincinnati/events/248044501/
+- Tech Elevator
+  - https://www.meetup.com/Cincinnati-learntocode/
+  - Tech Elevator has info sessions, free intro classes, and workshops.
+- Girl Develop It
+  - https://www.meetup.com/Girl-Develop-It-Cincinnati/
+  - Has free Code & Coffee meetups for studying
+  - Has paid classes aimed at beginners, each class offered quarterly
+- Other Meetup Groups
+  - https://www.meetup.com/TechLife-Cincinnati/
+    - A general group for meetups in Cincinnati
+  - https://www.meetup.com/Cincy-Software-Enthusiasts/
+    - Another coding bootcamp in Mason, they regularly offer free intro classes
+  - https://www.meetup.com/Cincy-Techies-for-Good/
+    - A project-based group that is doing work for non-profits, also in Mason
+
+#### Online
+
 - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
   - I based a lot of the workshop off of this guide. There is a TON more information available here to learn beyond what we looked at in the workshop.
 - https://www.khanacademy.org/computing/computer-programming
