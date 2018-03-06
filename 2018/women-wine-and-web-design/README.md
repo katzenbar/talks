@@ -1,5 +1,7 @@
 # Women, Wine, and Web Design
 
+Slides: https://goo.gl/3qQzn7
+
 ## Workshop Demos
 
 Open each demo and click "Remix" to
@@ -38,4 +40,3 @@ Open each demo and click "Remix" to
   - Khan Academy has courses on a wide range of topics, including many different programming subjects. These classes are video-based, if you prefer that to reading.
 - https://www.codecademy.com/
   - Freemium courses to learn many different programming languages and tools.
--
