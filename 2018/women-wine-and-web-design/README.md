@@ -31,6 +31,11 @@ Open each demo and click "Remix" to
   - Lots of tutorials and other learning materials available.
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
   - More information on how Flexbox works in CSS.
+  
+### Hosting your page through GitHub
+
+- https://www.thinkful.com/learn/a-guide-to-using-github-pages/
+  - This is a great interactive tutorial on how to upload your site to GitHub pages if you want to do that after the workshop.
 
 ### Keep Learning
 
