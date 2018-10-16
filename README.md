@@ -4,6 +4,10 @@ This is a list of talks that I have presented at conferences and meetups, with l
 
 ## 2018
 
+### Slaying the Long-Lived Branch
+_October 13, 2018 - Ohio Dev Fest_
+- https://github.com/katzenbar/talks/tree/master/2018/ohio-dev-fest
+
 ### Introduction to React
 _July 18, 2018 - Women Who Code Cincinnati_
 - https://github.com/WomenWhoCodeCincy/2018-july-react-intro
