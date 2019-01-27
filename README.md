@@ -4,6 +4,12 @@ This is a list of talks that I have presented at conferences and meetups, with l
 
 ## 2019
 
+### Building Up the Basics of Apache Kafka
+
+_March 21, 2019 - Momentum Developer Conference (Cincinnati, OH)_
+
+-   https://github.com/katzenbar/talks/tree/master/2019/building-up-the-basics-of-apache-kafka
+
 ### Women, Wine and Web Design
 
 _March 8, 2019 - Tech Elevator (Cincinnati, OH)_
