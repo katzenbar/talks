@@ -1,0 +1,19 @@
+{
+  "name": "kafka-demo",
+  "version": "1.0.0",
+  "description": "Demo for intro to Apache Kafka presentation",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kat Fairbanks <ktornwall@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^10.12.21",
+    "kafka-node": "^4.0.0"
+  },
+  "devDependencies": {
+    "ts-node": "^8.0.2",
+    "typescript": "^3.3.1"
+  }
+}

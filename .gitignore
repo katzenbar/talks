@@ -1,0 +1,5 @@
+# OSX system files
+.DS_Store
+
+# node_modules are installed via npm
+node_modules
