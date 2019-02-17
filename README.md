@@ -2,6 +2,12 @@
 
 This is a list of talks that I have presented at conferences and meetups, with links to any resources.
 
+## 2019
+
+### Women, Wine and Web Design
+_March 8, 2019 - Tech Elevator (Cincinnati, OH)_
+- https://github.com/katzenbar/talks/tree/master/2019/women-wine-and-web-design
+
 ## 2018
 
 ### Slaying the Long-Lived Branch
