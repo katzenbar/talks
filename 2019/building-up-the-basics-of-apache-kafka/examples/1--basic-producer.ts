@@ -25,18 +25,22 @@ producer.on("ready", () => {
       const result = olympicResults[index];
 
       // Print the Message to the console to see the contents in the producer tab
-      console.log("=== SENDING MESSAGE ================================");
+      console.log(`=== SENDING MESSAGE (${new Date().toISOString()}) ========`);
       console.log(JSON.stringify(result, null, 4));
-      console.log("=====================================================\n\n");
+      console.log(
+        "=======================================================\n\n"
+      );
 
       // Send the record as a serialized JSON string
       producer.send(
         [{ topic: "olympics", messages: JSON.stringify(result) }],
         (error, data) => {
-          console.log("=== MESSAGE ACKNOWLEDGED ===========================");
+          console.log(
+            `=== MESSAGE ACKNOWLEDGED (${new Date().toISOString()}) ===`
+          );
           console.log(data);
           console.log(
-            "=====================================================\n\n"
+            "=======================================================\n\n"
           );
         }
       );

@@ -42,7 +42,26 @@ npx ts-node examples/1--basic-producer.ts
 
 ## References
 
+### Code Example References
+
 - `2016-olympic-results.json` - Dataset from Kaggle (CC0) https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results/version/2
   - Filtered down to just the results from 2016 (13688 records)
   - Converted from CSV to JSON
   - Reordered by year, season, sport, event, country, name
+
+### Talk References
+
+- Kafka at Netflix
+  - Blog Posts
+    - Evolution of the Netflix Data Pipeline (2016 Feb 15) - https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905
+    - Kafka Inside Keystone Pipeline (2016 Apr 27) - https://medium.com/netflix-techblog/kafka-inside-keystone-pipeline-dd5aeabaf6bb
+    - Keystone Real-time Stream Processing Platform (2018 Sep 10) - https://medium.com/netflix-techblog/keystone-real-time-stream-processing-platform-a3ee651812a
+  - Conference Talks
+    - "Running a Massively Parallel Self-Serve Distributed Data System at Scale" by Zhenzhong Xu (2017 Sept @ StrangeLoop) - https://www.youtube.com/watch?v=0Eimlcrj-tg
+    - Netflix at Spark+AI Summit 2018 (2018 Jun 21) - https://medium.com/netflix-techblog/netflix-at-spark-ai-summit-2018-5304749ed7fa
+    - Fact Store at Scale for Netflix Recommendations (2018 Jun @ Spark AI Summit) - https://databricks.com/session/fact-store-scale-for-netflix-recommendations
+    - Near Real-Time Netflix Recommendations Using Apache Spark Streaming (2018 Jun @ Spark AI Summit) - https://databricks.com/session/near-real-time-netflix-recommendations-using-apache-spark-streaming
+    - Apache Spark-Based Stratification Library for Machine Learning Use Cases at Netflix (2018 Jun @ Spark AI Summit) - https://databricks.com/session/spark-based-stratification-library-for-machine-learning-use-cases-at-netflix
+- Kafka at The New York Times
+  - Publishing with Apache Kafka at The New York Times (2017 Sep 6) - https://open.nytimes.com/publishing-with-apache-kafka-at-the-new-york-times-7f0e3b7d2077
+  - Kafka at NY Times with Boerge Svingen (Software Engineering Daily Podcast 2017 Oct 30) - https://softwareengineeringdaily.com/2017/10/30/kafka-at-ny-times-with-boerge-svingen/
