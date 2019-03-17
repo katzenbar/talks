@@ -38,3 +38,12 @@ services:
       KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
       KAFKA_BROKER_ID: 3
       KAFKA_LISTENERS: PLAINTEXT://kafka3:9093
+
+  kafka_manager:
+    image: kafkamanager/kafka-manager
+    ports:
+      - "9000:9000"
+    depends_on:
+      - zookeeper
+    environment:
+      ZK_HOSTS: zookeeper
