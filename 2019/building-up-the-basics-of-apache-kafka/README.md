@@ -2,6 +2,8 @@
 
 Presented at Momentum Developer Conference - _March 21, 2019_
 
+**Slides:** https://docs.google.com/presentation/d/1rwdoYXnHNsK7zizyivnTf9dR4Jrr4DU0Q2wbOhxrpQ4/edit?usp=sharing
+
 ## Abstract
 
 Apache Kafka is a distributed data streaming platform that has gained popularity over the last few years. Companies like LinkedIn, Netflix, and the New York Times are using Kafka in various ways to process large amounts of data in real-time. After getting to work with this versatile platform in the last year at EBTH, I have enjoyed the development experience and want to share what I have learned. In this session I will discuss how Kafka can be used and explains the basic building blocks of Kafka using a live demonstration.
@@ -48,6 +50,10 @@ npx ts-node examples/1--basic-producer.ts
     -   Filtered down to just the results from 2016 (13688 records)
     -   Converted from CSV to JSON
     -   Reordered by year, season, sport, event, country, name
+-   `kafka-node` - https://github.com/SOHU-Co/kafka-node
+-   Kafka Docker Image - https://hub.docker.com/r/wurstmeister/kafka/
+-   Zookeeper Docker Image - https://hub.docker.com/r/wurstmeister/zookeeper
+-   Kafka Manager - https://github.com/yahoo/kafka-manager
 
 ### Talk References
 
