@@ -32,6 +32,20 @@ To route the internal Docker host names back to localhost, I have added the foll
 
 All examples are written using Node.js. Run `npm install` to install any Node modules needed to run examples.
 
+### Starting Docker
+
+Before running examples, you need to start the docker containers that make up the Kafka Cluster. You can start these containers by running:
+
+```bash
+docker-compose up -d
+```
+
+This will start the following services:
+
+-   Zookeeper (zookeeper:2181)
+-   Kafka x3 (kafka1:9091, kafka2:9092, kafka3:9093)
+-   Kafka Manager - Dashboard is available at http://localhost:9000
+
 ### Running Examples
 
 There are several example scripts in the `./examples/` folder. To run these scripts use:
